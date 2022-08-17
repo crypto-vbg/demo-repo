@@ -1,2 +1,5 @@
 # DEMO
- larning git
+ learning git
+
+## Sub header
+ this is my first github offline repo
